@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Blank River';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Blank River'), url('https://fonts.cdnfonts.com/s/51976/Blank River.woff') format('woff');
+}
+
+
